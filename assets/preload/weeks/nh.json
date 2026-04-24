@@ -1,0 +1,27 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"No Hero Remix",
+			"finn",
+			[
+				168,
+				160,
+				179
+			],
+			75
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nh"
+}
