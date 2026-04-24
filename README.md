@@ -1,4 +1,4 @@
-Credits:
+Credits: https://github.com/AmadeyHunter/Glitched-Brothers/tree/main/assets/preload/images/credits
 
 @BebrDavin228 for Icons: https://www.youtube.com/watch?v=1RMb-lxnO78
 
